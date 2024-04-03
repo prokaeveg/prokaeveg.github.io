@@ -112,7 +112,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             }
             sendMessage(messageText); // сообщение в ТГ
-
             var guestValue = form.querySelector('input[name="Гость"]').value;
             var inputs = form.querySelectorAll('input, textarea');
             inputs.forEach(function(input) {
@@ -146,7 +145,7 @@ document.addEventListener("DOMContentLoaded", function() {
             var questions = [
                 {lid: "1697381978825", errorMessage: "Этот вопрос очень важен для нас"},
                 {lid: "1697381978826", errorMessage: "Обязательно к выбору"},
-                {lid: "1697381978827", errorMessage: "Выберите один или несколько пунктов, нам будет проще рассчитать алкоголь"},
+                {lid: "1697381978827", errorMessage: "Выбери один или несколько пунктов, нам будет проще рассчитать алкоголь"},
             ];
 
             var hasError = false;
