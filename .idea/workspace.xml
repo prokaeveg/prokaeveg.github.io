@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b756f76-21b8-400b-b439-6e0af54e164a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/anna.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/klushiny.html" afterDir="false" />
+    <list default="true" id="9b756f76-21b8-400b-b439-6e0af54e164a" name="Changes" comment="Новые гости">
       <change afterPath="$PROJECT_DIR$/klushinyyoung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nozagzsingle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/olga.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sergeymerinov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tatiyana.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terterovy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nozagz.html" beforeDir="false" afterPath="$PROJECT_DIR$/nozagz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tatiyana.html" beforeDir="false" afterPath="$PROJECT_DIR$/grishiny.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prokaeveg"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prokaeveg/prokaeveg.github.io.git",
+    "accountId": "c7ee3fee-1156-4396-8091-08df3e550d3d"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -113,11 +119,26 @@
       <workItem from="1714915455422" duration="97000" />
       <workItem from="1714915571353" duration="354000" />
       <workItem from="1719072348860" duration="58000" />
-      <workItem from="1719072407721" duration="1009000" />
+      <workItem from="1719072407721" duration="2220000" />
     </task>
+    <task id="LOCAL-00001" summary="Новые гости">
+      <option name="closed" value="true" />
+      <created>1719073438156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719073438156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Новые гости" />
+    <option name="LAST_COMMIT_MESSAGE" value="Новые гости" />
   </component>
 </project>
