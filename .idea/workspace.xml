@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b756f76-21b8-400b-b439-6e0af54e164a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/elenasergey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ivankatya.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vladlera.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anna.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klushiny.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klushinyyoung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nozagzsingle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/olga.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sergeymerinov.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tatiyana.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terterovy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nozagz.html" beforeDir="false" afterPath="$PROJECT_DIR$/nozagz.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,27 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/egor/PhpstormProjects/prokaeveg.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/egor/PhpstormProjects/wedding/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/egor/WebstormProjects/prokaeveg.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/egor/PhpstormProjects/wedding/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "vue.recent.templates": [
-      "Vue Composition API Component"
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -83,7 +89,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-php-predefined-ba97393d7c68-8f0632a2a215-com.jetbrains.php.sharedIndexes-PS-241.14494.237" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
       </set>
     </attachedChunks>
   </component>
@@ -106,6 +112,8 @@
       <workItem from="1712161870242" duration="4099000" />
       <workItem from="1714915455422" duration="97000" />
       <workItem from="1714915571353" duration="354000" />
+      <workItem from="1719072348860" duration="58000" />
+      <workItem from="1719072407721" duration="1009000" />
     </task>
     <servers />
   </component>
