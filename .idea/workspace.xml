@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b756f76-21b8-400b-b439-6e0af54e164a" name="Changes" comment="Новые гости">
-      <change afterPath="$PROJECT_DIR$/klushinyyoung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sergeymerinov.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svaty.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tatiyana.html" beforeDir="false" afterPath="$PROJECT_DIR$/grishiny.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olga.html" beforeDir="false" afterPath="$PROJECT_DIR$/olga.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "prokaeveg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prokaeveg&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/prokaeveg/prokaeveg.github.io.git",
-    "accountId": "c7ee3fee-1156-4396-8091-08df3e550d3d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prokaeveg/prokaeveg.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;c7ee3fee-1156-4396-8091-08df3e550d3d&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -120,6 +119,7 @@
       <workItem from="1714915571353" duration="354000" />
       <workItem from="1719072348860" duration="58000" />
       <workItem from="1719072407721" duration="2220000" />
+      <workItem from="1719584300820" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="Новые гости">
       <option name="closed" value="true" />
